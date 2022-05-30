@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To New Web Technology.</h2>
+			<h2>Welcome To GK Web Technology.</h2>
 			<h3>Contact @ +91-8015745793 </h3>
 		</div>	
 	</div>
